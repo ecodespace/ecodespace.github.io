@@ -99,7 +99,7 @@ table {
 
 input[type=text], textarea {
     font-family: "ModeNine";
-    font-size: 2vw;
+    font-size: 1.5vw;
     margin: 1.5vw;
     padding: 1vw;
     width: 50%;
@@ -110,7 +110,7 @@ input[type=text], textarea {
 
 textarea {
     font-family: "ModeNine";
-    font-size: 2vw;
+    font-size: 1.5vw;
     margin: 1.5vw;
     padding: 1vw;
     max-width: 50%;
